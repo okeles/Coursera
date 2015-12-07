@@ -1,2 +1,6 @@
 Denemedir
 :w
+
+Bu satır eklendi.
+
+Bu da eklendi
